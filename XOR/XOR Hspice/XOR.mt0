@@ -1,0 +1,6 @@
+$DATA1 SOURCE='HSPICE' VERSION='P-2019.06-SP1-1 win64' PARAM_COUNT=0
+.TITLE '* circuit extracted by tanner research's l-edit version 8.30 / extract version 8.30 ;'
+ avg_power        trise            tfall            temper          
+ alter#          
+  9.845e-06        1.571e-08        3.620e-09         25.0000       
+1               

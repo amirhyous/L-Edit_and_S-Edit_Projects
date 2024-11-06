@@ -1,0 +1,33 @@
+SPR SUMMARY  'Layout1.tdb'
+
+Date and time :    01/14/2024 - 01:10
+
+1 Locator Unit (LU) = 1/1 Lambda = 7/20 Micron(s)
+
+Design file  : Layout1.tdb
+Netlist file : X:\Q2_S_edit\Addr_8bit.tpr
+Library file : X:\CA5-DEC-021\CA5 Files\L-Edit\Tech\Part2\mhp_n05d.tdb
+
+Placement optimization factor : None
+Routing optimization (2 layer) : Netlength and via reduction
+
+Standard Cell Place and Route done :
+- Core cell  "Core"  generated.
+- Padframe cell  "Frame"  generated.
+- Chip cell  "Chip"  generated.
+
+---------------------------------------------------------
+
+Number of standard cells :  40
+Number of signals in netlist :  117
+
+Core size in LU  :  453.00 x 847.00
+Core area (LU^2) :  383691.00
+
+Frame size in LU  :  5622.00 x 5622.00
+Frame area (LU^2) :  31606884.00
+
+Length of nets in core :  28265.00 LU
+Generated vias in core :  207
+
+SPR elapsed time :  0:00:00
