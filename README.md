@@ -1,7 +1,6 @@
 # L-Edit and S-Edit Projects
-##Layout Design of an XOR Gate Using L-Edit
-### XOR Gate:
-![Alt text](XOR.png)
+
+## Layout Design of an XOR Gate Using L-Edit
 
 ### XOR Gate Layout:
 ![Alt text](XOR_layout.png)
